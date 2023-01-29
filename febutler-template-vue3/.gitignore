@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+node_modules
+
+**/node_modules
+**/template/node_modules
